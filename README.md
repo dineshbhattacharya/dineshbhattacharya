@@ -14,18 +14,6 @@
 
 ---
 
-### 🛠️ Projects
-
-Here are some of my recent works:
-
-| Project | Description |
-|--------|-------------|
-| [🔗 Phishing-URL-Detection](https://github.com/dineshbhattacharya/Phishing-URL-Detection) | Nature-inspired algorithm (GA + PSO) for real-time phishing detection with 96.8% accuracy |
-| [🏬 E-Commerce Price Monitoring System](https://github.com/dineshbhattacharya/E-Commerce-Price-Monitoring-System) | Tracks 1000+ products across 5 platforms using web scraping and Flask REST API |
-| [🏢 Hostel Management System](https://github.com/dineshbhattacharya/Hostel-Management-System) | MySQL + C system to manage 500+ students, staff, and expenses |
-| [⚛️ QCA](https://github.com/dineshbhattacharya/QCA) | QCA logic block simulator with pseudo-random LFSR logic and reduced power |
-
----
 
 ### 🧰 Languages & Tools
 
