@@ -9,7 +9,7 @@
 
 - 💻 **R&D Engineer** focusing on full-stack and embedded projects, leveraging **Node.js, LoopBack 4, Python, and AI/ML** integrations.
 - 🎓 Holds a B.Tech in Computer Science and Technology from the **Indian Institute of Engineering Science and Technology (IIEST), Shibpur**.
-- 💡 Passionate about **architecting scalable backend APIs and microservices** [cite: 10] [cite_start]and solving complex problems with **data-driven features**.
+- 💡 Passionate about **architecting scalable backend APIs and microservices** and solving complex problems with **data-driven features**.
 - 🛡️ Specializing in **Cybersecurity**, **Machine Learning**, **Algorithm Optimization**, and **Data Engineering**.
 - 🌱 Currently working on projects combining **edge processing with robust cloud services**.
 
