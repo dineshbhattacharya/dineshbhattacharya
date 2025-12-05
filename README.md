@@ -7,11 +7,11 @@
 
 ### 🚀 About Me
 
-- [cite_start]💻 **R&D Engineer** focusing on full-stack and embedded projects, leveraging **Node.js, LoopBack 4, Python, and AI/ML** integrations[cite: 9].
-- [cite_start]🎓 Holds a B.Tech in Computer Science and Technology from the **Indian Institute of Engineering Science and Technology (IIEST), Shibpur**[cite: 14].
-- [cite_start]💡 Passionate about **architecting scalable backend APIs and microservices** [cite: 10] [cite_start]and solving complex problems with **data-driven features**[cite: 11].
-- [cite_start]🛡️ Specializing in **Cybersecurity**, **Machine Learning**, **Algorithm Optimization**, and **Data Engineering**[cite: 42].
-- [cite_start]🌱 Currently working on projects combining **edge processing with robust cloud services**[cite: 12].
+- 💻 **R&D Engineer** focusing on full-stack and embedded projects, leveraging **Node.js, LoopBack 4, Python, and AI/ML** integrations.
+- 🎓 Holds a B.Tech in Computer Science and Technology from the **Indian Institute of Engineering Science and Technology (IIEST), Shibpur**.
+- 💡 Passionate about **architecting scalable backend APIs and microservices** [cite: 10] [cite_start]and solving complex problems with **data-driven features**.
+- 🛡️ Specializing in **Cybersecurity**, **Machine Learning**, **Algorithm Optimization**, and **Data Engineering**.
+- 🌱 Currently working on projects combining **edge processing with robust cloud services**.
 
 ---
 
@@ -19,10 +19,10 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, C/C++, JavaScript, SQL, HTML/CSS [cite: 40] |
-| **Frameworks/Libraries** | [cite_start]React, Flask, NumPy, Pandas, Scikit-learn, TensorFlow [cite: 41] |
-| **Databases/Tools** | [cite_start]Git, Linux, Docker, VS Code, MySQL, PostgreSQL [cite: 41] |
-| **Specializations** | [cite_start]Machine Learning, Cybersecurity, Algorithm Optimization, Data Engineering [cite: 42] |
+| **Languages** | Python, C/C++, JavaScript, SQL, HTML/CSS  |
+| **Frameworks/Libraries** | React, Flask, NumPy, Pandas, Scikit-learn, TensorFlow  |
+| **Databases/Tools** | Git, Linux, Docker, VS Code, MySQL, PostgreSQL  |
+| **Specializations** | Machine Learning, Cybersecurity, Algorithm Optimization, Data Engineering  |
 
 ---
 
@@ -30,9 +30,9 @@
 
 | Project Title | Summary of Impact | Key Technologies |
 | :--- | :--- | :--- |
-| **Detection of Phishing URLs Using Nature-Inspired Algorithms** | [cite_start]Developed a high-accuracy phishing detection system (96.8% accuracy) using Genetic Algorithms and Particle Swarm Optimization[cite: 18, 19]. [cite_start]Engineered a lightweight, browser-compatible pipeline processing 10,000+ URLs/min[cite: 20]. | Algorithm Optimization, Data Engineering |
-| **Quantum-dot Cellular Automata (QCA) Digital Circuit Design** | [cite_start]Designed and simulated QCA-based logic gates and registers with **15% improved power efficiency** over CMOS[cite: 25]. [cite_start]Optimized QCA cell arrangement to minimize latency[cite: 27]. | Computer Architecture, QCA Designer |
-| **E-Commerce Price Monitoring System** | [cite_start]Developed a web scraping engine tracking 1,000+ products with real-time alerts[cite: 35]. [cite_start]Deployed a REST API using Flask for price history and trend visualizations[cite: 36]. | Python, Flask, PostgreSQL, Data Engineering |
+| **Detection of Phishing URLs Using Nature-Inspired Algorithms** | Developed a high-accuracy phishing detection system (96.8% accuracy) using Genetic Algorithms and Particle Swarm Optimization. Engineered a lightweight, browser-compatible pipeline processing 10,000+ URLs/min. | Algorithm Optimization, Data Engineering |
+| **Quantum-dot Cellular Automata (QCA) Digital Circuit Design** | Designed and simulated QCA-based logic gates and registers with **15% improved power efficiency** over CMOS. Optimized QCA cell arrangement to minimize latency. | Computer Architecture, QCA Designer |
+| **E-Commerce Price Monitoring System** | Developed a web scraping engine tracking 1,000+ products with real-time alerts. Deployed a REST API using Flask for price history and trend visualisations. | Python, Flask, PostgreSQL, Data Engineering |
 
 ---
 
@@ -59,6 +59,4 @@
 - ✉️ **Email:** dineshbhattacharya2002@gmail.com
 - 🐙 **GitHub:** https://github.com/dineshbhattacharya
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshbhattacharya&show_icons=true&theme=buefy" alt="Dinesh's GitHub Stats" />
-</p>
+
