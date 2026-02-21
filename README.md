@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dinesh Bhattacharya</h1>
 <p align="center">
-  <b>R&D Engineer | Full-Stack Development | Cybersecurity & AI/ML Integration</b>
+  <b>Software Engineer | Full-Stack Development | Cybersecurity & AI/ML Integration</b>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 **R&D Engineer** focusing on full-stack and embedded projects, leveraging **Node.js, LoopBack 4, Python, and AI/ML** integrations.
+- 💻 **Software Engineer** focusing on full-stack and embedded projects, leveraging **Node.js, LoopBack 4, Python, and AI/ML** integrations.
 - 🎓 Holds a B.Tech in Computer Science and Technology from the **Indian Institute of Engineering Science and Technology (IIEST), Shibpur**.
 - 💡 Passionate about **architecting scalable backend APIs and microservices** and solving complex problems with **data-driven features**.
 - 🛡️ Specializing in **Cybersecurity**, **Machine Learning**, **Algorithm Optimization**, and **Data Engineering**.
